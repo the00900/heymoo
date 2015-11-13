@@ -1,2 +1,2 @@
 # heymoo
-A project to include multi-source processing in a single application.
+A project to provide multi-source processing in a single application!
